@@ -1,0 +1,201 @@
+,Unnamed: 0,Company,Beta
+0,0,Adani Enterprises,1.275
+1,1,Adani Ports,1.133
+2,2,Apollo Hospital,0.764
+3,3,Asian Paints,0.69
+4,4,Axis Bank,1.399
+5,5,Bajaj Auto,0.754
+6,6,Bajaj Finance,1.428
+7,7,Bajaj Finserv,1.336
+8,8,Bharat Electric,0.911
+9,9,Bharti Airtel,0.778
+10,10,Cipla,0.389
+11,11,Coal India,0.731
+12,12,Dr Reddys Labs,0.466
+13,13,Eicher Motors,0.909
+14,14,Eternal,0.757
+15,15,Grasim,1.103
+16,16,HCL Tech,0.825
+17,17,HDFC Bank,1.098
+18,18,HDFC Life,0.993
+19,19,HUL,0.594
+20,20,Hero MotoCorporation,0.866
+21,21,Hindalco,1.408
+22,22,ICICI Bank,1.335
+23,23,ITC,0.69
+24,24,IndusInd Bank,1.567
+25,25,Infosys,0.917
+26,26,JSW Steel,1.249
+27,27,Jio Financial,0.936
+28,28,Kotak Mahindra,1.066
+29,29,Larsen,1.0
+30,30,M&M,1.046
+31,31,Maruti Suzuki,0.996
+32,32,NTPC,0.707
+33,33,Nestle,0.523
+34,34,ONGC,0.851
+35,35,Power Grid Corporation,0.592
+36,36,Reliance,1.1
+37,37,SBI,1.209
+38,38,SBI Life Insurance,0.853
+39,39,Shriram Finance,1.429
+40,40,Sun Pharma,0.637
+41,41,TCS,0.765
+42,42,Tata Cons. Prod,0.891
+43,43,Tata Motors,1.386
+44,44,Tata Steel,1.187
+45,45,Tech Mahindra,0.933
+46,46,Titan Company,0.914
+47,47,Trent,1.024
+48,48,Ultratech Cement,0.935
+49,49,Wipro,0.802
+50,50,Alkem Lab,0.288
+51,51,Ashok Leyland,1.129
+52,52,Astral Ltd,0.826
+53,53,AU Small Finance,0.987
+54,54,Aurobindo Pharma,0.869
+55,55,Bharat Forge,1.03
+56,56,BHEL,1.15
+57,57,BSE Limited,0.896
+58,58,Colgate,0.424
+59,59,Co Forge Ltd,1.192
+60,60,Container Corporation,0.936
+61,61,Cummins,0.58
+62,62,Dixon Technology,0.852
+63,63,Federal Bank,1.328
+64,64,GMR Airports,
+65,65,Godrej Prop,1.287
+66,66,HDFC AMC,0.873
+67,67,HINDPETRO,0.84
+68,68,IDFC First Bank,1.295
+69,69,Indus Towers,0.888
+70,70,IRCTC,0.736
+71,71,Lupin,0.469
+72,72,Marico,0.485
+73,73,Max Healthcare,0.558
+74,74,Mphasis,0.767
+75,75,MRF,0.75
+76,76,Muthoot Finance,1.042
+77,77,NHPC,0.623
+78,78,NMDC,0.971
+79,79,Oberoi Realty,0.787
+80,80,Oil India,0.718
+81,81,Oracle,
+82,82,Page Industries,0.601
+83,83,PB Fintech,1.24
+84,84,Paytm,0.953
+85,85,Persistent,0.709
+86,86,Petronet LNG,0.613
+87,87,Phoenix Mills,0.718
+88,88,PI Industries,0.749
+89,89,Polycab,0.88
+90,90,Prestige Estate,0.996
+91,91,SAIL,1.361
+92,92,SBI Card,0.9
+93,93,SRF,0.97
+94,94,Supreme Ind,0.556
+95,95,Torrent Power,0.656
+96,96,Tube Investment,0.616
+97,97,Voltas,0.859
+98,98,Vodafone Idea,0.98
+99,99,Yes Bank,0.254
+100,100,AFFLE 3I,0.728
+101,101,Aarti Ind,0.805
+102,102,Aditya Birla Re,
+103,103,Aegis Logistics,
+104,104,Amara Raja,
+105,105,Amber Enterprises,0.767
+106,106,Angel One,1.075
+107,107,Aster DM Health,0.63
+108,108,BirlaSoft,1.113
+109,109,Brigade Enterprises,0.866
+110,110,CAMS,0.562
+111,111,CDSL,0.821
+112,112,CESC,0.675
+113,113,CG Consumer,0.581
+114,114,Castrol,0.579
+115,115,Cyient,0.643
+116,116,Delhivery,0.865
+117,117,Dr Lal PathLab,0.544
+118,118,FirstSource Sol,1.031
+119,119,Five-Star Busin,0.732
+120,120,GE Shipping,0.759
+121,121,Guj State Petro,0.674
+122,122,HFCL,1.084
+123,123,Himadri Special,0.823
+124,124,Hind Copper,1.272
+125,125,IEX,0.67
+126,126,IIFL Finance,0.844
+127,127,Inox Wind,0.831
+128,128,KEC International,0.74
+129,129,Kaynes Tech,0.495
+130,130,Kfin Tech,0.703
+131,131,Laurus Labs,0.742
+132,132,MCX India,0.829
+133,133,NBCC(India),1.101
+134,134,NCC,1.247
+135,135,Natco Pharma,0.489
+136,136,Navin Fluorine,0.757
+137,137,Neuland Lab,0.637
+138,138,PNB Housing Finance,0.868
+139,139,Piramal Pharma,
+140,140,Piramal Enterprises,1.222
+141,141,Poonawalla Finance,
+142,142,Radico Khaitan,0.804
+143,143,RamKrishnaForge,0.969
+144,144,Ramco Cements,0.886
+145,145,Reliance Power,0.539
+146,146,Sonata,0.681
+147,147,Tata Chemicals,0.914
+148,148,Tejas Networks,0.914
+149,149,Zensar Tech,0.832
+150,150,ABB India,0.557
+151,151,Adani Energy,1.929
+152,152,Adani Green Energies,0.684
+153,153,Adani Power,1.139
+154,154,Ambuja Cements,0.863
+155,155,Avenue Supermarkets,0.678
+156,156,BPCL,0.925
+157,157,Bajaj Holdings,0.772
+158,158,Bank of Baroda,1.159
+159,159,Biocon,0.655
+160,160,Bombay Dyeing,1.218
+161,161,Bosch,0.967
+162,162,Britannia,0.614
+163,163,CG Power,0.511
+164,164,Canara Bank,1.363
+165,165,Chola Investments,1.452
+166,166,Dabur India,0.575
+167,167,DLF,1.394
+168,168,Divis Labs,0.597
+169,169,GAIL,0.792
+170,170,Godrej Consumer,0.631
+171,171,Havells India,0.746
+172,172,Hindustan Aeronauticals,0.593
+173,173,ICICI Lombard,0.838
+174,174,ICICI Prudentials,1.091
+175,175,IOC,0.746
+176,176,IRFC,0.653
+177,177,Indian Hotels,0.97
+178,178,Info Edge,0.977
+179,179,InterGlobe Aviation,0.854
+180,180,Jindal Steel,1.537
+181,181,JSW Energy,0.813
+182,182,LIC India,0.825
+183,183,LTMind Tree,0.849
+184,184,Macrotech Dev,1.387
+185,185,Mother Son,1.285
+186,186,PNB,0.972
+187,187,PVR INOX,0.769
+188,188,Pidilite Ind,0.649
+189,189,Power Finance,1.032
+190,190,REC,0.944
+191,191,Shree Cements,0.87
+192,192,Siemens,0.817
+193,193,TVS Motors,0.77
+194,194,Tata Power,1.04
+195,195,Torrent Pharma,0.421
+196,196,UNited Spirits,
+197,197,Vedanta,1.182
+198,198,Varun Beverages,0.481
+199,199,Zydus Life,0.514
